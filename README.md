@@ -1,2 +1,8 @@
-lazy_developer_productive
+Private Blog
 =========================
+
+### [技术](./技术)
+
+### [人生](./人生)
+
+### 
