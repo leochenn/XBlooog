@@ -5,11 +5,11 @@
 
 fork from :<https://github.com/Juude/Awesome-Android-Architecture>!!!
 
-### 博客原地址：
+**博客原地址**：
 
 - [简书博客](http://www.jianshu.com/p/1f21e1d375aa)
 
-### github地址：
+**github地址：**
 
 - [AndroidArchitectureCollection github地址](https://github.com/CameloeAnthony/AndroidArchitectureCollection) 请关注github，后续会在github上面更新
 
