@@ -32,7 +32,7 @@
 - 同级页面间跳转
 
   使用'./PageB.md#标题1'
-[PageB](./PageB.md#标题1)
+   [PageB](./PageB.md#标题1)
 
 **注意**
 
